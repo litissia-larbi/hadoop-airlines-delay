@@ -111,4 +111,4 @@ Hive         : 3.1.3
 
 ## 👩‍💻 Auteure
 
-**Litissia LARBI** — Master Université Paris 8, 2025/2026
+**Litissia LARBI** — Master 1 IBD-Université Paris 8, 2025/2026
